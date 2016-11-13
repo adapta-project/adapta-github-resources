@@ -1,7 +1,7 @@
 <img src="images/logo_thumb.png" alt="Logo" align="left" /> Adapta-github-resources
 ======
 
-A place to put the github image resources.
+A place to put the image resources of github page.
 
 Public License
 --------------
