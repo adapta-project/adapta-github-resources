@@ -1,4 +1,4 @@
-<img src="images/logo_thumb.png" alt="Logo" align="left" /> Adapta-github-resources
+<img src="images/logo_thumb_christmas.png" alt="Logo" align="left" /> Adapta-github-resources
 ======
 
 A place to put the image resources of github page.
